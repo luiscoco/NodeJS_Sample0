@@ -7,7 +7,9 @@ Run the command:
 node sample0.js
 ```
 ## Github actions for this application
-This is the build.yml file for continuous integration in Github actions:
+This is the build.yml file for continuous integration in Github actions. 
+
+In this application, we didn't include any package.json file:
 
 ```yml
 name: Node.js Build
