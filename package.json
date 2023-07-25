@@ -1,0 +1,19 @@
+{
+  "name": "sample0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscoco/NodeJS_Sample1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiscoco/NodeJS_Sample1/issues"
+  },
+  "homepage": "https://github.com/luiscoco/NodeJS_Sample1#readme"
+}
