@@ -4,6 +4,6 @@
 Run the command:
 
 ```
-node index.js
+node sample0.js
 ```
 
